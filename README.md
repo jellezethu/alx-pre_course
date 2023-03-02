@@ -1,2 +1,2 @@
 My first readme.md
-Good programmer
+Update and commit from Github
